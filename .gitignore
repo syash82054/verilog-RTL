@@ -1,0 +1,19 @@
+# Icarus Verilog
+*.vvp
+a.out
+
+# GTKWave
+*.vcd
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*~
+
+# VS Code
+.vscode/
+
+# Linux
+*.swp
